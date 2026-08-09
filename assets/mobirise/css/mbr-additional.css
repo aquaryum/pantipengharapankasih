@@ -1343,11 +1343,11 @@ a {
   display: flex;
   padding-top: 135px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/image-640x640.jpg");
+  background-image: url("../../../assets/images/background-1600x1200.jpg");
 }
 .cid-tLAX5BnXkJ .mbr-overlay {
-  background-color: #ffa600;
-  opacity: 0.5;
+  background-color: #000000;
+  opacity: 0.6;
 }
 @media (min-width: 768px) {
   .cid-tLAX5BnXkJ {
